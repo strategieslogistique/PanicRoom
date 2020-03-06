@@ -1,0 +1,21 @@
+# Biomédicaments, des produits à haut risque logistique
+Mercredi 4 mars 2020
+
+**La France fait des « biotechs » un enjeu majeur pour l’avenir. Le premier contrat du Comité Stratégique de Filière pour les industries et technologies de santé (CSF ITS) a été signé en février 2019 avec l’Etat. Du fait de leur coût et des exigences du contrôle à la livraison, les enjeux logistiques peuvent apparaître comme extraordinaires par rapport aux médicaments issus de la chimie. 
+A noter, Stratégies Logistique n°181 consacre un dossier aux biomédicaments.**
+
+Les biomédicaments regroupent diverses classes de médicaments dont le point commun est de faire appel à une source biologique comme matière première du principe actif qu’ils renferment. On les distingue des médicaments dont le principe actif est issu de la synthèse chimique qui restent les médicaments les plus représentés dans la pharmacopée actuelle. Leurs principales particularités logistiques peuvent se résumer assez simplement : ce sont des produits fabriqués surtout en Europe, exportés dans le monde entier, leur valeur peut atteindre des montants fabuleux tandis que leurs conditions de transport de stockage sont absolument draconiennes. 
+
+Brice Bellin, Directeur Healthcare & Life Science Europe de Bolloré Logistics indique par exemple « *que l’insuline, un des médicaments biotech parmi les plus complexes à transporter, représente une valeur marchande allant jusqu’à 40 millions de dollars par expédition quand la limite acceptable sur un navire varie selon les compagnies maritimes avec des valeurs maximales autorisées de l’ordre de 50 millions de dollars.* » Il y a quelques années, certains armateurs refusaient tout simplement de charger ces produits. 
+
+#### Cahier des charges draconien
+L’autre enjeu majeur pour la logistique des médicaments biotech est de ne pas les rendre inutilisables à l’arrivée ce qui conduirait au refus de tout ou partie de la marchandise après analyse par le destinataire. Reprenant l’exemple de l’insuline Brice Bellin indique que ce produit doit être transporté à des températures comprises entre 2 et 8°c. « *Aucune déviation n’est tolérée ni au-dessus ni en-dessous compte tenu de la fragilité du produit qui doit conserver ses propriétés pour les patients* ». 
+
+Concernant la valeur marchande à ne pas excéder, la plupart des compagnies maritimes limitent leur responsabilité à 500 000 dollars sauf en cas de renonciation à recours entre les différentes parties concernées. Les enjeux sont de même nature bien que portant sur des quantités et donc des valeurs moins importantes pour des médicaments biotech tels que les vaccins, les anticancéreux ou les produits radioactifs, plutôt transportés en aérien. 
+
+#### Monitoring en temps réel
+S’agissant de la stabilité du produit tout au long de son acheminement, la logistique des médicaments biotech est d’abord une question d’analyse des risques maillon par maillon sur l’ensemble de la chaîne, c’est à dire depuis le lieu de production jusqu’au port d’arrivée voire jusqu’à destination. Ces analyses produisent des cahiers des charges draconiens, notamment sur le respect de la température des produits, qui portent autant sur les organisations que sur la définition des matériels employés. Brice Bellin explique que Bolloré Logistics a mis en place un suivi de la chaîne du froid tout au long du transport en collaboration avec ses sous-traitants. Il se traduit notamment par une évaluation des risques, un monitoring en temps réel avec track & trace et la mise à disposition d’un centre d’urgence disponible 24h/24 et 7j/7.
+
+
+#### Pénurie de conteneurs
+Les laboratoires de leur côté travaillent de façon constante à améliorer les emballages de leurs produits, les systèmes de contrôle et de régulation des températures dans les conteneurs aériens ou maritimes. Le souci de transporter en international les produits biotech par voie maritime, moins coûteuse que le transport aérien, conduit aujourd’hui à une demande plus forte qui n’est pas sans conséquences. « *Les laboratoires exigent l’utilisation de conteneurs reefers sous-températures dirigée répondant à leurs cahiers des charges : ils doivent avoir moins de 5 ans d’âge et intégrer des générateurs spécifiques appelés aussi gensets. Cela amène quelques difficultés à trouver sur le marché de tels conteneurs en nombre suffisant* ».
